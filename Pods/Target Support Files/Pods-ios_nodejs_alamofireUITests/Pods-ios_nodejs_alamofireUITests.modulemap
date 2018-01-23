@@ -1,0 +1,6 @@
+framework module Pods_ios_nodejs_alamofireUITests {
+  umbrella header "Pods-ios_nodejs_alamofireUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
